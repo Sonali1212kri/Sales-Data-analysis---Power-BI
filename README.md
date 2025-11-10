@@ -78,8 +78,8 @@ Profit strongly correlates with net sales, indicating efficient pricing and disc
   Detailed Order table
   
 # Repository Structure : 
-Data : 
-Dashboard : 
+Data : https://github.com/Sonali1212kri/Sales-Data-analysis---Power-BI/blob/main/Store%2BData%20(3).xlsx<br />
+Dashboard : https://github.com/Sonali1212kri/Sales-Data-analysis---Power-BI/blob/main/sales%20data%20power%20bi.pbix<br />
 Image 1 : <img width="1366" height="768" alt="sales data ss1" src="https://github.com/user-attachments/assets/a119aed3-ed56-431c-9baf-6166c94f6812" /><br />
 Image 2 : <img width="1366" height="768" alt="sales ss2" src="https://github.com/user-attachments/assets/d188e6ef-1524-4a5f-8d2e-d5e928ba9847" /><br />
 Image 3 : <img width="1366" height="768" alt="sales ss3" src="https://github.com/user-attachments/assets/b37c51e9-b88d-48e8-9b45-53c59ca3f071" /><br />
