@@ -76,6 +76,12 @@ Profit strongly correlates with net sales, indicating efficient pricing and disc
   Overview Dashboard
   Data Filter Comparison Page 
   Detailed Order table 
-Date Filter Comparison Page
-
-Detailed Order Table
+  
+# Repository Structure : 
+Data : 
+Dashboard : 
+Image 1 : <img width="1366" height="768" alt="sales data ss1" src="https://github.com/user-attachments/assets/a119aed3-ed56-431c-9baf-6166c94f6812" />
+Image 2 : <img width="1366" height="768" alt="sales ss2" src="https://github.com/user-attachments/assets/d188e6ef-1524-4a5f-8d2e-d5e928ba9847" />
+Image 3 : <img width="1366" height="768" alt="sales ss3" src="https://github.com/user-attachments/assets/b37c51e9-b88d-48e8-9b45-53c59ca3f071" />
+Image 4 : <img width="885" height="486" alt="sales ss4" src="https://github.com/user-attachments/assets/4e2cdcaa-44b6-4c2e-b40e-25fc5f3f2716" />
+Project Requirement : <img width="1366" height="768" alt="Objective" src="https://github.com/user-attachments/assets/2472964b-49ec-4318-9889-e6a5221735d3" />
